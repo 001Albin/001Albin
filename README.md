@@ -1,4 +1,3 @@
-![GitHub Banner](https://your-image-link.com/banner.png)
 
 # 👋 Hi, I’m Albin!  
 
